@@ -1877,7 +1877,7 @@ input::-moz-focus-inner {
   content: "";
   width: calc(50% - 200px);
   height: 100vh;
-  background-image: url(../images/print-novo.png);
+  background-image: url(../images/print-novo.avif);
   background-origin: center top;
   background-repeat: no-repeat;
   background-size: cover;
